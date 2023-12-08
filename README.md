@@ -1,6 +1,6 @@
 # Laravel
 ## crud işlemleri
-![laravel](https://hizliresim.com/ho8ie5u)
+![laravel](https://i.hizliresim.com/ho8ie5u.png)
 
 
 
